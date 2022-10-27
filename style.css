@@ -7,3 +7,26 @@
 body {
     background-color: #262C49;
 }
+
+aside {
+    background-color: #10163A;
+    position: absolute;
+    display: block;
+    height: 100vh;
+    width: 30vh;
+}
+
+aside ul a {
+    color: #E7E5FB;
+    line-height: 22.3px;
+    list-style: none;
+    text-decoration: none;
+    font-family:Montserrat;
+    font-weight: 400;
+    font-size:2vh;
+    font-style: normal;
+   
+
+
+
+}
